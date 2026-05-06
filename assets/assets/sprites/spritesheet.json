@@ -1,0 +1,415 @@
+{
+	"frames": {
+		"10_Alan_Rails.jpg": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"11_Albert_Einstein.jpg": {
+			"frame": {
+				"x": 303,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"12_Alexander.jpg": {
+			"frame": {
+				"x": 605,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"13_Alien_Googah.jpg": {
+			"frame": {
+				"x": 907,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"14_Alien_Morty.jpg": {
+			"frame": {
+				"x": 1,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"15_Alien_Rick.jpg": {
+			"frame": {
+				"x": 303,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"16_Amish_Cyborg.jpg": {
+			"frame": {
+				"x": 605,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"17_Annie.jpg": {
+			"frame": {
+				"x": 907,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"18_Antenna_Morty.jpg": {
+			"frame": {
+				"x": 1,
+				"y": 605,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"1_Rick_Sanchez.jpg": {
+			"frame": {
+				"x": 303,
+				"y": 605,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"20_Ants_in_my_Eyes_Johnson.jpg": {
+			"frame": {
+				"x": 605,
+				"y": 605,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"2_Morty_Smith.jpg": {
+			"frame": {
+				"x": 907,
+				"y": 605,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"3_Summer_Smith.jpg": {
+			"frame": {
+				"x": 1,
+				"y": 907,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"4_Beth_Smith.jpg": {
+			"frame": {
+				"x": 303,
+				"y": 907,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"5_Jerry_Smith.jpg": {
+			"frame": {
+				"x": 605,
+				"y": 907,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"6_Abadango_Cluster_Princess.jpg": {
+			"frame": {
+				"x": 907,
+				"y": 907,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"7_Abradolf_Lincler.jpg": {
+			"frame": {
+				"x": 1209,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"8_Adjudicator_Rick.jpg": {
+			"frame": {
+				"x": 1209,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"9_Agency_Director.jpg": {
+			"frame": {
+				"x": 1209,
+				"y": 605,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"character_21.jpg": {
+			"frame": {
+				"x": 1209,
+				"y": 907,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1510,
+			"h": 1208
+		},
+		"scale": "1"
+	}
+}
